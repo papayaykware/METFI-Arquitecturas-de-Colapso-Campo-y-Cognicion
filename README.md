@@ -1,0 +1,2 @@
+# METFI-Arquitecturas-de-Colapso-Campo-y-Cognicion
+Repositorio de síntesis y desarrollo teórico que integra los trabajos realizados entre octubre y diciembre, articulando modelos alternativos sobre civilización y colapso, campos electromagnéticos planetarios, cognición no lineal y biología como arquitectura bioinformática. Funciona como archivo estructural whitepaper evolutivo y base de co-creación
